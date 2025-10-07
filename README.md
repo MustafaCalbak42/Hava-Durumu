@@ -60,16 +60,8 @@ Uygulamayı başlat:
 
 flutter run
 
-🧩 Dosya Yapısı
-lib/
-│
-├── main.dart                # Giriş noktası
-├── models/
-│   └── weather_model.dart   # JSON verisini parse eden model
-├── services/
-│   └── weather_service.dart # Dio ile API’den veri çeken servis
-└── widgets/
-    └── weather_card.dart    # Arayüzde hava durumu gösterimi
+<img width="655" height="366" alt="image" src="https://github.com/user-attachments/assets/9333b45d-1e69-4c28-94f8-84e8dd756731" />
+
   
 
 💡 Öğrenilenler
